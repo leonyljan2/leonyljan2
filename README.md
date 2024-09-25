@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Leonyl]!
 
-![Hello](https://media.giphy.com/media/3o6MbkA2V8g3Y3jH8U/giphy.gif)
+![Hello]([https://media.giphy.com/media/3o6MbkA2V8g3Y3jH8U/giphy.gif](https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif))
 
 ## 🚀 About Me
 
