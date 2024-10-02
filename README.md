@@ -5,17 +5,17 @@
 ## 🚀 About Me
 
 ## About Me
-### *Hi there! 👋 I'm John Ford Buliag*
+### *Hi there! 👋 I'm leonyl Jan Morante*
 ### *A passionate guy committed to continuous <br/> learning to become a software engineer.*
 
-<img align="right" alt="Coding" width="350" src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/bb/3d/81/bb3d8142e4a119ce0aa20a031552a0b0.gif">
 
 - 🎓 Studying at [University of Mindanao](https://umindanao.edu.ph/)
 - 🌱 Currently learning Flutter and Laravel 11
 - 💡 Ask me about how to become a consistent learner
 - ⚡ Fun fact: I love coding challenges and watching anime
-- 👨‍💻 All of my projects are available at [https://github.com/ZyroGlitch](https://github.com/ZyroGlitch)
-- 📫 How to reach me **j.buliag.530734@umindanao.edu.ph**
+- 👨‍💻 All of my projects are available at [https://github.com/ZyroGlitch](https://github.com/leonyljan2)
+- 📫 How to reach me **l.morante.539339@umindanao.edu.ph**
 
 <br/> 
 <br/> 
