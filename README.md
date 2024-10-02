@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Leonyl]!
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/775157.gif" style="width: 100%" />
+  <img src="https://wallpaperaccess.com/full/8351332.gif" style="width: 100%" />
 </div>
 ## 🚀 About Me
 
