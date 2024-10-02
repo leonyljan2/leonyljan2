@@ -10,12 +10,12 @@
 
 <img align="right" alt="Coding" width="350" src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif">
 
-- 🎮 Valorant
-- 🎮 Mobile Legends
-- 🎮 Genshin Impact
-- 🎮 Honkai Star Rail
-- 🎮 Apex Legends
-- 🎮 Brawlhalla
+- 🎓 Studying at [University of Mindanao](https://umindanao.edu.ph/)
+- 🌱 Currently learning Flutter and Laravel 11
+- 💡 Ask me about how to become a consistent learner
+- ⚡ Fun fact: I love coding challenges and watching anime
+- 👨‍💻 All of my projects are available at [https://github.com/leonyljan2](https://github.com/leonyljan2)
+- 📫 How to reach me **l.morante.539339@umindanao.edu.ph**
 
 <br/> 
 
@@ -39,15 +39,15 @@
 
 <img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/bb/3d/81/bb3d8142e4a119ce0aa20a031552a0b0.gif">
           
-  &nbsp;&nbsp;&nbsp;&nbsp; - 🎓 Studying at [University of Mindanao](https://umindanao.edu.ph/)
+  &nbsp;&nbsp;&nbsp;&nbsp; - 🎮 Valorant
   
-  &nbsp;&nbsp;&nbsp;&nbsp; - 🌱 Currently learning Flutter and Laravel 11
+  &nbsp;&nbsp;&nbsp;&nbsp; - 🎮 Mobile Legends
   
-  &nbsp;&nbsp;&nbsp;&nbsp; - 💡 Ask me about how to become a consistent learner
+  &nbsp;&nbsp;&nbsp;&nbsp; - 🎮 Apex Legends
   
-  &nbsp;&nbsp;&nbsp;&nbsp; - ⚡ Fun fact: I love coding challenges and watching anime
+  &nbsp;&nbsp;&nbsp;&nbsp; - 🎮 Genshin Impact
   
-  &nbsp;&nbsp;&nbsp;&nbsp; - 👨‍💻 All of my projects are available at [https://github.com/ZyroGlitch](https://github.com/ZyroGlitch)
+  &nbsp;&nbsp;&nbsp;&nbsp; - 🎮 Honkai Star Rail
 
   &nbsp;&nbsp;&nbsp;&nbsp;     Feel free to reach out to me if you want to collaborate or just chat!
 <br/>
