@@ -31,7 +31,7 @@ I'm a passionate [Computer Science] with a love for [Big Booties]. I enjoy creat
 
 ## 🎉 A Little Fun
 
-![Dance](https://media.giphy.com/media/3oKIP0W6zVbZGL4ooQ/giphy.gif)
+![Dance](https://i.pinimg.com/originals/bb/3d/81/bb3d8142e4a119ce0aa20a031552a0b0.gif)
 
 Feel free to reach out to me if you want to collaborate or just chat!
 
