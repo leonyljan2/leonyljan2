@@ -10,12 +10,12 @@
 
 <img align="right" alt="Coding" width="350" src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif">
 
-- 🎓 Studying at [University of Mindanao](https://umindanao.edu.ph/)
-- 🌱 Currently learning Flutter and Laravel 11
-- 💡 Ask me about how to become a consistent learner
-- ⚡ Fun fact: I love coding challenges and watching anime
-- 👨‍💻 All of my projects are available at [https://github.com/leonyljan2](https://github.com/leonyljan2)
-- 📫 How to reach me **l.morante.539339@umindanao.edu.ph**
+- 🎮 Valorant
+- 🎮 Mobile Legends
+- 🎮 Genshin Impact
+- 🎮 Honkai Star Rail
+- 🎮 Apex Legends
+- 🎮 Brawlhalla
 
 <br/> 
 
