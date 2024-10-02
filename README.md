@@ -94,13 +94,6 @@ Feel free to reach out to me if you want to collaborate or just chat!
 
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## 🌍 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=about.me&logoColor=white)](https://yourportfolio.com)
-
-
 ---
 
 ✨ **Thank you for visiting my profile!** ✨
