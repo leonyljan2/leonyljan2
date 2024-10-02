@@ -17,6 +17,12 @@ I'm a passionate [Computer Science] with a love for [Big Booties]. I enjoy creat
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+## 🎉 A Little Fun
+
+![Dance](https://i.pinimg.com/originals/bb/3d/81/bb3d8142e4a119ce0aa20a031552a0b0.gif)
+
+Feel free to reach out to me if you want to collaborate or just chat!
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
@@ -29,11 +35,6 @@ I'm a passionate [Computer Science] with a love for [Big Booties]. I enjoy creat
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=about.me&logoColor=white)](https://yourportfolio.com)
 
-## 🎉 A Little Fun
-
-![Dance](https://i.pinimg.com/originals/bb/3d/81/bb3d8142e4a119ce0aa20a031552a0b0.gif)
-
-Feel free to reach out to me if you want to collaborate or just chat!
 
 ---
 
