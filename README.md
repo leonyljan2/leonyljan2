@@ -8,7 +8,7 @@
 ### *Hi there! 👋 I'm leonyl Jan Morante*
 ### *A passionate guy committed to continuous <br/> learning to become a software engineer.*
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/bb/3d/81/bb3d8142e4a119ce0aa20a031552a0b0.gif">
+<img align="right" alt="Coding" width="350" src="https://giffiles.alphacoders.com/220/220159.gif">
 
 - 🎓 Studying at [University of Mindanao](https://umindanao.edu.ph/)
 - 🌱 Currently learning Flutter and Laravel 11
