@@ -14,7 +14,7 @@
 - 🌱 Currently learning Flutter and Laravel 11
 - 💡 Ask me about how to become a consistent learner
 - ⚡ Fun fact: I love coding challenges and watching anime
-- 👨‍💻 All of my projects are available at [https://github.com/ZyroGlitch](https://github.com/leonyljan2)
+- 👨‍💻 All of my projects are available at [https://github.com/leonyljan2](https://github.com/leonyljan2)
 - 📫 How to reach me **l.morante.539339@umindanao.edu.ph**
 
 <br/> 
