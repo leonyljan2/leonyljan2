@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Leonyl]!
 <div align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9100d753-02ac-4ed8-ac98-5e45d6deecad/df0uj78-1a18f012-62f2-43ef-a608-7924ad4de259.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxMDBkNzUzLTAyYWMtNGVkOC1hYzk4LTVlNDVkNmRlZWNhZFwvZGYwdWo3OC0xYTE4ZjAxMi02MmYyLTQzZWYtYTYwOC03OTI0YWQ0ZGUyNTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6WNay7NpEIh2fLenZT6vvRQfy-Q0RRp1iGKGiYsRNUI" style="width: 100%" />
+  <img src="https://wallpaperaccess.com/full/775157.gif" style="width: 100%" />
 </div>
 ## 🚀 About Me
 
