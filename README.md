@@ -58,21 +58,13 @@
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 
 
-## Connect with me  
-<a href="https://github.com/ZyroGlitch" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/john-ford-buliag-444ba5313" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/johnford.buliag.2" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/johnfordbuliag/?hl=en" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-<br/>  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/sgfrdgrln"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="https://discord.com/users/sieg#7070"><img src="https://skillicons.dev/icons?i=discord"/></a>
+  <a href="https://www.linkedin.com/in/sgfrdgrln-3ab0252bb/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
 
 
 ## 🎉 A Little Fun
@@ -81,11 +73,18 @@
 
 Feel free to reach out to me if you want to collaborate or just chat!
 
-## 📈 GitHub Stats
+<p align="center">
+  <a href="https://github.com/sgfrdgrln">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgfrdgrln&theme=tokyonight&border=03C988&background=0D1117" alt="sieg's GitHub streak"/>
+  </a>
+</p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<a> 
+    <a href="https://github.com/leonyljan2"><img alt="sieg's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leonyljan2&show_icons=true&count_private=true&theme=react&border_color=03C988&bg_color=0D1117&title_color=96E9C6&icon_color=83C0C1" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/leonyljan2"><img alt="sieg's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leonyljan2&langs_count=8&layout=compact&theme=react&border_color=03C988&bg_color=0D1117&title_color=96E9C6&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 ---
 
