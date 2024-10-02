@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Leonyl]!
 <div align="center">
-  <img src="https://gifsec.com/wp-content/uploads/2022/11/smooth-anime-gif-1.gif" style="width: 100%" />
+  <img src="https://giffiles.alphacoders.com/483/48368.gif" style="width: 100%" />
 </div>
 ## 🚀 About Me
 
