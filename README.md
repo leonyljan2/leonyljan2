@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm [Leonyl]!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=25&width=600&lines=Hi+👋,+I'm+Leonyl;An+Aspiring+Software+Developer+🐱;Computer+Science+Student+🧑‍💻;)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://wallpaperaccess.com/full/8351209.gif" style="width: 100%" />
 </div>
