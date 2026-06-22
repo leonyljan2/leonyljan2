@@ -28,9 +28,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/sgfrdgrln"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="https://github.com/leonyljan2"><img src="https://skillicons.dev/icons?i=instagram"/></a>
   <a href="https://discord.com/users/sieg#7070"><img src="https://skillicons.dev/icons?i=discord"/></a>
-  <a href="https://www.linkedin.com/in/sgfrdgrln-3ab0252bb/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/leonyljan2-3ab0252bb/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 
@@ -54,8 +54,8 @@
 <hr/>
 
 <p align="center">
-  <a href="https://github.com/sgfrdgrln">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgfrdgrln&theme=tokyonight&border=03C988&background=0D1117" alt="sieg's GitHub streak"/>
+  <a href="https://github.com/leonyljan2">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonyljan2&theme=tokyonight&border=03C988&background=0D1117" alt="sieg's GitHub streak"/>
   </a>
 </p>
 
